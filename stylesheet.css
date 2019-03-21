@@ -1,0 +1,37 @@
+@font-face{
+    font-family: "gfsd";
+    src:url('Good Feeling sans demo.ttf');
+}
+table{
+    width: 80%;
+}
+td{
+    border-radius: 1px;
+    text-align: center;
+    font-family: "gfsd";
+}
+th{
+    border: 1px solid palevioletred;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "gfsd";
+    font-weight: bold;
+    color: darkslateblue;
+    background-color: rgb(173, 161, 251);
+}
+th:hover{
+    cursor: pointer;
+    color:black;
+}
+p{
+    font-size: 40px;
+    color: rgb(52, 46, 77);
+    font-weight: bold;
+    text-align: center;
+    font-family: gfsd;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: "gfsd";
+}
